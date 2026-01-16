@@ -18,7 +18,7 @@ Your advice is always welcome.👋 Please contack me !!
 
 ### Read a lot and get your hands dirt 💪 - Yoshua Bengio
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=meaningful96)](https://github.com/meaningful96/github-readme-stats)
+![meaningful96's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meaningful96&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <h2> 🔎Attention is all you need <h2>
   
