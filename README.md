@@ -18,7 +18,6 @@ Your advice is always welcome.👋 Please contack me !!
 
 ### Read a lot and get your hands dirt 💪 - Yoshua Bengio
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meaningful96&theme=react&line_height=40&hide=css"/> </a>
 
 ![meaningful96's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meaningful96&theme=vue-dark&hide_border=false)
 
